@@ -1,0 +1,206 @@
+[
+  {
+    "state": "Alabama",
+    "population": [4908, 4921, 4934, 4949]
+  },
+  {
+    "state": "Alaska",
+    "population": [731, 733, 733, 733]
+  },
+  {
+    "state": "Arizona",
+    "population": [7421, 7520, 7591, 7650]
+  },
+  {
+    "state": "Arkansas",
+    "population": [3038, 3048, 3058, 3067]
+  },
+  {
+    "state": "California",
+    "population": [39368, 39142, 38940, 38965]
+  },
+  {
+    "state": "Colorado",
+    "population": [5807, 5841, 5868, 5877]
+  },
+  {
+    "state": "Connecticut",
+    "population": [3571, 3563, 3557, 3553]
+  },
+  {
+    "state": "Delaware",
+    "population": [989, 1003, 1018, 1031]
+  },
+  {
+    "state": "Florida",
+    "population": [21733, 22005, 22245, 22611]
+  },
+  {
+    "state": "Georgia",
+    "population": [10711, 10799, 10912, 11029]
+  },
+  {
+    "state": "Hawaii",
+    "population": [1407, 1416, 1421, 1423]
+  },
+  {
+    "state": "Idaho",
+    "population": [1900, 1939, 1975, 2000]
+  },
+  {
+    "state": "Illinois",
+    "population": [12671, 12582, 12518, 12549]
+  },
+  {
+    "state": "Indiana",
+    "population": [6785, 6813, 6833, 6862]
+  },
+  {
+    "state": "Iowa",
+    "population": [3163, 3174, 3182, 3190]
+  },
+  {
+    "state": "Kansas",
+    "population": [2913, 2921, 2932, 2940]
+  },
+  {
+    "state": "Kentucky",
+    "population": [4477, 4502, 4518, 4531]
+  },
+  {
+    "state": "Louisiana",
+    "population": [4645, 4624, 4590, 4573]
+  },
+  {
+    "state": "Maine",
+    "population": [1350, 1362, 1377, 1391]
+  },
+  {
+    "state": "Maryland",
+    "population": [6055, 6065, 6079, 6101]
+  },
+  {
+    "state": "Massachusetts",
+    "population": [6893, 6922, 6960, 6981]
+  },
+  {
+    "state": "Michigan",
+    "population": [9987, 9992, 10034, 10034]
+  },
+  {
+    "state": "Minnesota",
+    "population": [5657, 5707, 5737, 5761]
+  },
+  {
+    "state": "Mississippi",
+    "population": [2966, 2962, 2960, 2961]
+  },
+  {
+    "state": "Missouri",
+    "population": [6151, 6169, 6184, 6196]
+  },
+  {
+    "state": "Montana",
+    "population": [1086, 1104, 1119, 1132]
+  },
+  {
+    "state": "Nebraska",
+    "population": [1934, 1951, 1967, 1978]
+  },
+  {
+    "state": "Nevada",
+    "population": [3155, 3185, 3229, 3270]
+  },
+  {
+    "state": "New Hampshire",
+    "population": [1366, 1377, 1388, 1395]
+  },
+  {
+    "state": "New Jersey",
+    "population": [8882, 8870, 8870, 8878]
+  },
+  {
+    "state": "New Mexico",
+    "population": [2105, 2111, 2113, 2114]
+  },
+  {
+    "state": "New York",
+    "population": [19825, 19571, 19453, 19571]
+  },
+  {
+    "state": "North Carolina",
+    "population": [10488, 10657, 10807, 10835]
+  },
+  {
+    "state": "North Dakota",
+    "population": [765, 774, 779, 783]
+  },
+  {
+    "state": "Ohio",
+    "population": [11654, 11658, 11691, 11785]
+  },
+  {
+    "state": "Oklahoma",
+    "population": [3963, 3991, 4020, 4053]
+  },
+  {
+    "state": "Oregon",
+    "population": [4241, 4268, 4281, 4240]
+  },
+  {
+    "state": "Pennsylvania",
+    "population": [12783, 12805, 12823, 12962]
+  },
+  {
+    "state": "Rhode Island",
+    "population": [1058, 1061, 1067, 1072]
+  },
+  {
+    "state": "South Carolina",
+    "population": [5149, 5231, 5307, 5373]
+  },
+  {
+    "state": "South Dakota",
+    "population": [887, 896, 907, 919]
+  },
+  {
+    "state": "Tennessee",
+    "population": [6897, 7005, 7126, 7126]
+  },
+  {
+    "state": "Texas",
+    "population": [29472, 29730, 30097, 30503]
+  },
+  {
+    "state": "Utah",
+    "population": [3283, 3363, 3426, 3458]
+  },
+  {
+    "state": "Vermont",
+    "population": [623, 624, 626, 647]
+  },
+  {
+    "state": "Virginia",
+    "population": [8590, 8642, 8683, 8715]
+  },
+  {
+    "state": "Washington",
+    "population": [7693, 7740, 7785, 7812]
+  },
+  {
+    "state": "West Virginia",
+    "population": [1784, 1774, 1756, 1770]
+  },
+  {
+    "state": "Wisconsin",
+    "population": [5832, 5868, 5892, 5910]
+  },
+  {
+    "state": "Wyoming",
+    "population": [577, 578, 581, 584]
+  },
+  {
+    "state": "District of Columbia",
+    "population": [689, 671, 671, 678]
+  }
+]

@@ -1,0 +1,12 @@
+美国人口普查局
+https://www.census.gov/data/tables/time-series/demo/popest/2020s-state-total.html
+
+https://www.census.gov/data/datasets/time-series/demo/popest/2010s-state-total.html
+
+
+World Population Review（简介汇总）
+https://worldpopulationreview.com/states
+
+
+CDC(出生/死亡数据)
+https://wonder.cdc.gov/
