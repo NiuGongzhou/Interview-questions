@@ -1,0 +1,12 @@
+{
+    "extends": "./tsconfig.json",
+    "compilerOptions": {
+      "types": ["jest", "node"],
+      "plugins": [] // 移除 Next.js 插件
+    },
+    "include": [
+      "src/**/*.test.ts",
+      "src/**/*.test.tsx",
+      "jest.config.js"
+    ]
+  }
